@@ -4,7 +4,7 @@ This is the rock-themed pomodoro timer I made for productivity. It's called pomo
 
 ### It is deployed [here](https://ustunmelih.github.io/pomodoRock/)
 
-![img]('./pomodoRock.png')
+![img](/pomodoRock.png)
 
 ---
 
