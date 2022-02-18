@@ -2,7 +2,7 @@
 
 This is the rock-themed pomodoro timer I made for productivity. It's called pomodoRock.
 
-### It is deployed [here]()
+### It is deployed [here](https://ustunmelih.github.io/pomodoRock/)
 
 ---
 
